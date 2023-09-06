@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on researching chronological and biological epigenetic clocks.
 
-I'm currently learning my way around GitHub, RStudio, and Slack.
 <!--
 **chrasd-11/chrasd-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
